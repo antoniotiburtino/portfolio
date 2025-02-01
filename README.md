@@ -1,7 +1,7 @@
 # Olá...Bem vindo ao meu projeto de portfólio 🤗.
 
-![image](![Captura de Tela (34)](https://github.com/user-attachments/assets/08b858c1-c02e-45b6-a525-a50d37d11859)
-)
+![Captura de Tela (34)](https://github.com/user-attachments/assets/08b858c1-c02e-45b6-a525-a50d37d11859)
+
 
 ## Ferramentas utilizadas⚙️ :
 * VSCode
