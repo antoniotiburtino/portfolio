@@ -10,5 +10,7 @@
 * Flex-Box
 ## Criado por🧑🏻‍💻:
 ### Antonio Marcos Marcon Tiburtino
-## LinkedIn: https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedor/
-## Github: https://github.com/antoniotiburtino
+
+## Minhas redes📱🌍: 
+### LinkedIn: https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedor/
+### Github: https://github.com/antoniotiburtino
