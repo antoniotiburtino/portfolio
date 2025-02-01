@@ -39,6 +39,10 @@ body {
   text-decoration: none;
 }
 
+.cabecalho__menu__link:hover {
+  color: var(--cor-destaque);
+}
+
 .apresentacao {
   padding: 5% 15%;
   display: flex;
@@ -100,6 +104,8 @@ body {
 
 .apresentacao__links__navegacao:hover {
   background-color: var(--cor-hover);
+  color: var(--cor-destaque);
+  border: 2px solid var(--cor-destaque);
 }
 
 .apresentacao__image {
