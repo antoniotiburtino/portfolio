@@ -104,7 +104,7 @@ body {
 
 .apresentacao__image {
   filter: drop-shadow(0 0 1rem var(--cor-terciaria));
-  width: 50%;
+  width: 40%;
 }
 
 .rodape {
