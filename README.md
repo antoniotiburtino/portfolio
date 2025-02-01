@@ -11,7 +11,7 @@
 * CSS
 * Flex-Box
 * DevTools
-## Desenvolvedor 🧑🏻‍💻:
+## Desenvolvido por 🧑🏻‍💻:
 | [<img loading="antonio" src="https://avatars.githubusercontent.com/u/156551571?v=4" width=115><br><sub>Antonio Tiburtino</sub>](https://github.com/antoniotiburtino) |
 | :---:
 
