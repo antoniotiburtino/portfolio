@@ -18,3 +18,8 @@
 ## Minhas redes📱🌍: 
 ### LinkedIn: https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedor/
 ### Github: https://github.com/antoniotiburtino
+
+## Professores do curso da Alura:
+
+- https://www.instagram.com/guilhermelimadev/
+- https://cursos.alura.com.br/user/rafaella-ballerini
